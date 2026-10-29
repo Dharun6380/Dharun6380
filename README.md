@@ -11,7 +11,13 @@
 
 ## 👨‍💻 About Me
 
-I'm **Dharun P**, a **B.Tech Computer Science and Engineering (AI & ML)** undergraduate at **Jain University (2023–2027)**, based in **Bengaluru, India**. I enjoy solving technical problems and building practical software—from REST APIs and database-driven applications to AI-assisted features, cloud workflows, and real-time data pipelines.
+I'm Dharun P, an aspiring AI & ML Developer | Cloud & Data Engineering Enthusiast, currently pursuing a B.Tech in Computer Science and Engineering (Artificial Intelligence & Machine Learning) at Jain University (2023–2027), Bengaluru, India.
+
+I'm passionate about transforming complex challenges into intelligent, scalable, and real-world technology solutions. My interests span Artificial Intelligence, Machine Learning, Cloud Computing, Data Engineering, and Full-Stack Development, with a strong focus on building practical, efficient, and impactful applications.
+
+From developing AI-powered applications and predictive models to designing cloud-based architectures, real-time data pipelines, and end-to-end software solutions, I enjoy exploring how emerging technologies can solve meaningful problems.
+
+I'm continuously strengthening my skills through hands-on projects, experimentation, and problem-solving, while exploring modern technologies across AWS, Microsoft Azure, Google Cloud, Apache Kafka, Apache Spark, Python, and SQL.
 
 - 🔭 **Interests:** AI/ML development, software engineering, cloud computing, data engineering and automation
 - 🧠 **Core foundations:** Object-oriented programming, data structures & algorithms, DBMS and operating systems
