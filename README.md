@@ -6,7 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharun-p-a9493a28a/)
 [![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharunperiyasamy2005@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-View%20PDF-8B5CF6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](assets/Dharun_P_Resume.pdf)
-![Profile Views](https://komarev.com/ghpvc/?username=Dharun6380&style=for-the-badge&color=2563eb)
 
 </div>
 
